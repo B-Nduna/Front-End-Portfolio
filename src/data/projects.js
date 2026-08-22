@@ -1,5 +1,13 @@
 export const projects = [
     {
+    title: "ANVIL Training OS",
+    category: "App Development",
+    date: "Aug 2026",
+    img: "img/p1.webp",
+    url: "https://b-nduna.github.io/anvil/",
+    blurb: "A full-stack training operating system for personalized workout programming, progression tracking and performance analytics.",
+  },
+  {
     title: "Aura Herbal Store",
     category: "Web Design",
     date: "May 2026",
@@ -16,36 +24,12 @@ export const projects = [
     blurb: "A React dealership site with a Three.js-powered 3D showroom.",
   },
   {
-    title: "Xoli's Bakery",
+    title: "XO Inks",
     category: "Web Design",
-    date: "Aug 2026",
-    img: "img/project-3.webp",
-    url: "https://codevenientlab.github.io/Xoli-s-Bakery/",
-    blurb: "A React storefront for a home bakery, with a dedicated cart flow and structured SEO.",
-  },
-  {
-    title: "Saprishi",
-    category: "Web Design",
-    date: "Mar 2026",
+    date: "Jul 2026",
     img: "img/project-4.webp",
-    url: "https://codevenientlab.github.io/saprishi-company-site/",
-    blurb: "A modern company site built to give a growing business a professional digital presence.",
-  },
-  {
-    title: "Nkgong Design Studio",
-    category: "Web Design",
-    date: "Feb 2025",
-    img: "img/project-2.webp",
-    url: "https://b-nduna.github.io/Nkgong-Design-Studio/",
-    blurb: "A portfolio site for a design studio, built to put the work front and center.",
-  },
-  {
-    title: "SoundScape App",
-    category: "App Design",
-    date: "Jun 2024",
-    img: "img/SoundScape.webp",
-    url: "https://www.figma.com/design/4z1K77jbS3NAAsudvXHzfR/SoundScape-App?node-id=0-1&m=dev&t=oiycOJ0Jn9JWUdTe-1",
-    blurb: "A Figma app concept exploring music discovery and playback.",
+    url: "https://codevenientlab.github.io/XO-Inks/",
+    blurb: "React tattoo parlour website that books clients and showcases the studio.",
   },
 ];
 
